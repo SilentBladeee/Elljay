@@ -16,21 +16,21 @@ body {
   }
 
   #box1 {
-    background-color: #ff9999; 
-    border: 2px solid #cc0000; 
+    background-color: #c59797; 
+    border: 2px solid #df2426; 
     margin-right: 20px;
     padding: 10px;
   }
 
   #box2 {
-    background-color: #99ff99; 
-    border: 2px solid #006600; 
+    background-color: #a025f2; 
+    border: 2px solid #441166; 
     margin-right: 20px;
     padding: 20px;
   }
 
   #box3 {
-    background-color: #9999ff; 
-    border: 2px solid #0000cc; 
+    background-color: #97C4C5; 
+    border: 2px solid#2b4dd6; 
     padding: 30px;
   }
