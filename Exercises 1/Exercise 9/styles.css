@@ -1,0 +1,10 @@
+.parent-box {
+    background-color: #eee;
+    padding: 20px;
+    }
+    
+    .child-box {
+    background-color: #ccc;
+    padding: 10px;
+    margin: 10px;
+    }
